@@ -1,0 +1,9 @@
+E:\Net\Riyad\CityInformationManagementApp\CityInformationManagementApp\bin\Debug\CityInformationManagementApp.exe.config
+E:\Net\Riyad\CityInformationManagementApp\CityInformationManagementApp\obj\Debug\CityInformationManagementApp.csprojResolveAssemblyReference.cache
+E:\Net\Riyad\CityInformationManagementApp\CityInformationManagementApp\obj\Debug\CityInformationManagementApp.CityInformationUI.resources
+E:\Net\Riyad\CityInformationManagementApp\CityInformationManagementApp\obj\Debug\CityInformationManagementApp.Properties.Resources.resources
+E:\Net\Riyad\CityInformationManagementApp\CityInformationManagementApp\obj\Debug\CityInformationManagementApp.csproj.GenerateResource.Cache
+E:\Net\Riyad\CityInformationManagementApp\CityInformationManagementApp\bin\Debug\CityInformationManagementApp.exe
+E:\Net\Riyad\CityInformationManagementApp\CityInformationManagementApp\bin\Debug\CityInformationManagementApp.pdb
+E:\Net\Riyad\CityInformationManagementApp\CityInformationManagementApp\obj\Debug\CityInformationManagementApp.exe
+E:\Net\Riyad\CityInformationManagementApp\CityInformationManagementApp\obj\Debug\CityInformationManagementApp.pdb
